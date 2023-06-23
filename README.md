@@ -1,3 +1,5 @@
+Hello. This project was created in just 2 days from scratch. At the beginning of the work, I tried to understand the task presented to me and convey to the client what I can do and what can be improved in the future. I used Photoshop for design creation. The application was built using React.js.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
